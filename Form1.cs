@@ -6,5 +6,10 @@ namespace Calculadora_Basica
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
